@@ -22,6 +22,9 @@ Target: Diagnosis (M = malignant, B = benign).
 **9.** sagemaker
 **10.** AWS account
 
+- **Item 1**: Description of item 1.
+- **Item 2**: Description of item 2.
+- **Item 3**: Description of item 3.
 # Acknowledgments
 
 Thanks to the scikit-learn and pandas communities for their valuable tools and resources.
