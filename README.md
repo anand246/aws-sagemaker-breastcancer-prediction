@@ -1,4 +1,27 @@
 # aws-sagemaker-breastcancer-prediction
 
 
-In spearheading a cutting-edge machine learning initiative focused on advancing early detection and risk assessment in breast cancer, I played a pivotal role in utilizing AWS SageMaker for comprehensive data analysis and cleaning. Tasked with developing a predictive model, I applied meticulous data handling techniques and engaged in fine-tuning using AWS SageMaker's robust features to optimize performance. Proactively addressing the challenge, I fine-tuned the model to ensure heightened sensitivity to early indicators of breast cancer. The project yielded a remarkable achievement, with the breast cancer prediction model achieving an impressive accuracy rate of 93%. This success underscores the project's efficacy in leveraging the combined power of AWS SageMaker, showcasing meticulous data handling, and achieving hyperparameter optimization for significantly enhanced predictive accuracy. The results will contribute significantly to the field of healthcare applications for early breast cancer detection.
+This Jupyter notebook provides a predictive model for breast cancer detection using machine learning algorithms. The dataset used in this notebook is the Breast Cancer.
+
+## Dataset Description
+The Breast Cancer  dataset contains features of a breast mass.
+These features describe characteristics of the cell nuclei such as radius, texture, smoothness, symmetry, etc. The dataset contains both benign and malignant samples.
+
+Features: 31 features.
+Target: Diagnosis (M = malignant, B = benign).
+
+## Requirements
+Python 3.x
+Jupyter Notebook
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+boto3
+sagemaker
+AWS account
+
+# Acknowledgments
+
+Thanks to the scikit-learn and pandas communities for their valuable tools and resources.
