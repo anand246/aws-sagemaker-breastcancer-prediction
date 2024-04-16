@@ -11,18 +11,16 @@ Features: 31 features.
 Target: Diagnosis (M = malignant, B = benign).
 
 ## Requirements
-'''
-1.Python 3.x
-2.Jupyter Notebook
- . pandas
- . numpy
- . scikit-learn
-matplotlib
-seaborn
-boto3
-sagemaker
-AWS account
-'''
+**1.** Python 3.x
+**2.** Jupyter Notebook
+**3.** pandas
+**4.** numpy
+**5.** scikit-learn
+**6.** matplotlib
+**7.** seaborn
+**8.** boto3
+**9.** sagemaker
+**10.** AWS account
 
 # Acknowledgments
 
