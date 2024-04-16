@@ -11,20 +11,24 @@ Features: 31 features.
 Target: Diagnosis (M = malignant, B = benign).
 
 ## Requirements
-**1.** Python 3.x
-**2.** Jupyter Notebook
-**3.** pandas
-**4.** numpy
-**5.** scikit-learn
-**6.** matplotlib
-**7.** seaborn
-**8.** boto3
-**9.** sagemaker
-**10.** AWS account
+- **1**: Python 3.x
+- **2**: Jupyter Notebook
+- **3**: pandas
+- **4**: numpy
+- **5**: scikit-learn
+- **6**: matplotlib
+- **7**: seaborn
+- **8**: boto3
+- **9**: sagemaker
+- **10**: AWS account
 
-- **Item 1**: Description of item 1.
-- **Item 2**: Description of item 2.
-- **Item 3**: Description of item 3.
+## Usage:
+
+- **1**: Clone repository.
+- **2**: Install dependencies using pip install -r requirements.txt.
+- **3**: Open Jupyter notebook.
+- **4**: Follow notebook to understand analysis and results.
+  
 # Acknowledgments
 
 Thanks to the scikit-learn and pandas communities for their valuable tools and resources.
